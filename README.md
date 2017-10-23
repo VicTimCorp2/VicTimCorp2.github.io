@@ -1,1 +1,2 @@
-# VicTimCorp2.github.io
+# VicTimCorp
+Used for the Github Pages
